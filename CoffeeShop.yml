@@ -1,0 +1,12 @@
+coffeeshop:
+  special-offer: "25% off on all beverages this Friday"
+  open-hours:
+    start: "08:00"
+    end: "20:00"
+  menu:
+    - name: "Espresso"
+      price: 2.50
+    - name: "Cappuccino"
+      price: 3.00
+    - name: "Latte"
+      price: 3.50
